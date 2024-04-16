@@ -1,6 +1,6 @@
 # Bootcamp Java AI Powered
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
     <strong>Estudar</strong> sempre é um bom, mas repassar o conhecimento é um dom.
@@ -11,7 +11,7 @@
 <p align="left">
     💼 Ferramentas: <strong><a href="https://git-scm.com/">Git</a> / <a href="https://github.com/">GitHub</a></strong>
 </p>
-
+<br>
 <!--Banner session-->
 <p align="center">
     <img src="https://hermes.digitalinnovation.one/assets/logos/dio-white.png" alt="DIO" tittle="Digital Innovation One">
