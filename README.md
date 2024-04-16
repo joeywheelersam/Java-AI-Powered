@@ -14,16 +14,20 @@
 <br>
 
 <!--About session-->
-<p align="center">
-    <img src="https://hermes.digitalinnovation.one/assets/logos/dio-white.png" alt="DIO" tittle="Digital Innovation One">
-</p>
-<h1 align="center">Bootcamp Java AI Powered<br>Digital Innovation One</h1>
-<p>Aqui você vai encontrar resumos e desafios do bootcamp que realizei na </strong><a rel="noopener noreferrer" href="https://digitalinnovation.one/">Digital Innovation One</a></strong>.<br><br>
-Os códigos estão rodando normalmente na plataforma da DIO.<br><br></p>
-
+<table>
+    <tbody>
+        <tr>
+            <th>
+                <img src="https://hermes.digitalinnovation.one/assets/logos/dio-white.png" alt="DIO" tittle="Digital Innovation One">
+            </th>
+            <th>
+                <h1 align="center">Bootcamp Java AI Powered<br>Digital Innovation One</h1><p>Aqui você vai encontrar resumos e desafios do bootcamp que realizei na </strong><a rel="noopener noreferrer" href="https://digitalinnovation.one/">Digital Innovation One</a></strong>.<br><br>Os códigos estão rodando normalmente na plataforma da DIO.
+            </th>
+        </tr>
+    </tbody>
+</table>
 
 <h3>📚 Módulos e Cursos</h3>
-
 <details><!-- Ganhando Produtividade em Java com Spring Framework -->
 <summary><span>Ganhando Produtividade em Java com Spring Framework</span></summary>
 <div align="left">
