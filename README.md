@@ -1,6 +1,6 @@
 # Bootcamp Java AI Powered
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="150px" max-width="150px" width="150px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
     <strong>Estudar</strong> sempre é um bom, mas repassar o conhecimento é um dom.
