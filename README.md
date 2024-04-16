@@ -21,7 +21,7 @@
                 <img src="https://hermes.digitalinnovation.one/assets/logos/dio-white.png" alt="DIO" tittle="Digital Innovation One">
             </th>
             <th>
-                <h1 align="center">Bootcamp Java AI Powered<br>Digital Innovation One</h1><p>Aqui você vai encontrar resumos e desafios do bootcamp que realizei na </strong><a rel="noopener noreferrer" href="https://digitalinnovation.one/">Digital Innovation One</a></strong>.<br><br>Os códigos estão rodando normalmente na plataforma da DIO.
+                <h1>Bootcamp Java AI Powered<br>Digital Innovation One</h1><p>Aqui você vai encontrar resumos e desafios do bootcamp que realizei na </strong><a rel="noopener noreferrer" href="https://digitalinnovation.one/">Digital Innovation One</a></strong>.<br><br>Os códigos estão rodando normalmente na plataforma da DIO.
             </th>
         </tr>
     </tbody>
