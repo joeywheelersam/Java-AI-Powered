@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="150px" max-width="150px" width="150px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-    <strong>Estudar</strong> sempre é um bom, mas repassar o conhecimento é um dom.
+    <strong>Estudar</strong> sempre é um bom, mas repassar o conhecimento é melhor ainda.
 </p>
 <p align="left">
     🦄 Linguagens: <strong>Java.</strong>
