@@ -1,4 +1,4 @@
-# Bootcamp Java AI Powered
+# <a href="https://www.dio.me/"><img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a> Bootcamp Java AI Powered
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="150px" max-width="150px" width="150px" align="right" alt="Computador iuriCode">
 
