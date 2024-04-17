@@ -1,8 +1,4 @@
-<h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span> Guia de Contribuição</span>
-</h1>
+## Guia de Contribuição
 
 [![Star](https://img.shields.io/github/stars/joeywheelersam/Java-AI-Powered?style=social)](https://github.com/joeywheelersam/Java-AI-Powered/stargazers)
 [![Forks](https://img.shields.io/github/forks/joeywheelersam/Java-AI-Powered?style=social)](https://github.com/joeywheelersam/Java-AI-Powered/forks)
