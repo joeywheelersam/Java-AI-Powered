@@ -27,7 +27,7 @@
     </tbody>
 </table>
 
-<h3>📚 Módulos e Cursos</h3>
+## 📚 Módulos e Cursos
 <details><!-- Ganhando Produtividade em Java com Spring Framework -->
 <summary><span>Ganhando Produtividade em Java com Spring Framework</span></summary>
 <div align="left">
