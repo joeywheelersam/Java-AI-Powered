@@ -83,6 +83,7 @@
             <tr>
                 <td>08</td>
                 <td>Adicionando Segurança a uma API REST com Spring Security</td>
+                <td>Link</td>
                 <td align="center">❌</td>
             </tr>
             <tr>
