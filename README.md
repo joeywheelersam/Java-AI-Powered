@@ -40,15 +40,15 @@
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>[Contextualizando o Desenvolvimento Web com Spring Boot 3](./M%C3%B3dulo%201/02.%20Desenvolvimento%20Web%20com%20Spring%20Boot%203%20e%20Kotlin.md)</td>
+                <td><a href="./M%C3%B3dulo%201/02.%20Desenvolvimento%20Web%20com%20Spring%20Boot%203%20e%20Kotlin.md">Contextualizando o Desenvolvimento Web com Spring Boot 3</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>[Versionamento de Código com Git e GitHub](./M%C3%B3dulo%201/03.%20Versionamento%20de%20c%C3%B3digo%20com%20Git%20e%20GitHub.md)</td>
+                <td><a href="./M%C3%B3dulo%201/03.%20Versionamento%20de%20c%C3%B3digo%20com%20Git%20e%20GitHub.md">Versionamento de Código com Git e GitHub</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>[Desafios de Projetos: Crie um Portfólio Vencedor](./M%C3%B3dulo%201/04.%20Desafios%20de%20projetos%20-%20Crie%20um%20portf%C3%B3lio%20vencedor.md)</td>
+                <td><a href="./M%C3%B3dulo%201/04.%20Desafios%20de%20projetos%20-%20Crie%20um%20portf%C3%B3lio%20vencedor.md">Desafios de Projetos: Crie um Portfólio Vencedor</a></td>
                 <td align="center">❌</td>
             </tr>
             <tr>
