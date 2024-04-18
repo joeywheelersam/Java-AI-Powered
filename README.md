@@ -10,7 +10,7 @@
 <p align="left">
     💼 Ferramentas: <strong><a href="https://git-scm.com/">Git</a> / <a href="https://github.com/">GitHub</a></strong>
 </p>
-<br>
+<br/>
 
 <table > <!--About session-->
     <tbody>
@@ -24,6 +24,7 @@
         </tr>
     </tbody>
 </table>
+<br/>
 
 ## 📚 Módulos e Aulas <!--About modules and classes-->
 <details> <!--About menu module 1-->
@@ -183,6 +184,7 @@
     </table>   
 </div>
 </details>
+<br/>
 
 ## 💪 Como contribuir para o projeto <!--About contributing to the project-->
 1. Faça um **fork** do projeto.
@@ -190,6 +192,8 @@
 3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
 4. Envie as suas alterações: `git push origin my-feature`
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
+> 
+<br/>
 
 ## 🦸 Autor <!--About author-->
 <a href="https://www.linkedin.com/in/jomar-ferreira-amorim/">
@@ -202,6 +206,7 @@
 <p align="left">
     <a href="https://www.linkedin.com/in/jomar-ferreira-amorim/" alt="Linkedin"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jomar-ferreira-amorim/"></a>
 </p>  
+<br/>
 
 ## 📝 Licença <!--About license-->
 Este projeto esta sobe a licença [MIT](./LICENSE).
