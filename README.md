@@ -36,7 +36,7 @@
                 <th>Status</th>
             </tr>
             <tr>
-                <td>[Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas!](./M%C3%B3dulo%201/01.%20Bootcamps%20DIO%20-%20Educa%C3%A7%C3%A3o%20Gratuita%20e%20Empregabilidade%20Juntas.md)</td>
+                <td><a href="./M%C3%B3dulo%201/01.%20Bootcamps%20DIO%20-%20Educa%C3%A7%C3%A3o%20Gratuita%20e%20Empregabilidade%20Juntas.md">Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas!</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
