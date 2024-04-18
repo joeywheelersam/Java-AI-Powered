@@ -19,7 +19,7 @@
                 <img src="https://hermes.digitalinnovation.one/assets/logos/dio-white.png" alt="DIO" tittle="Digital Innovation One">
             </th>
             <th align="left">
-                <p>Aqui você vai encontrar resumos e desafios do bootcamp que realizei na </strong><img align="center" width="15px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"><a rel="noopener noreferrer" href="https://digitalinnovation.one/"> Digital Innovation One</a><a href="https://www.dio.me/"></a></strong>.<br><br>Os códigos estão rodando normalmente na plataforma da DIO.
+                <p>Aqui você vai encontrar resumos e desafios do bootcamp que realizei na </strong><img align="center" width="20px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"><a rel="noopener noreferrer" href="https://digitalinnovation.one/"> Digital Innovation One</a><a href="https://www.dio.me/"></a></strong>.<br><br>Os códigos estão rodando normalmente na plataforma da DIO.
             </th>
         </tr>
     </tbody>
