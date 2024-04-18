@@ -1,7 +1,6 @@
-# <a href="https://www.dio.me/"><img align="center" width="40px" src="https://hermes.dio.me/tracks/fb1b88ee-257f-4870-8cf8-1339b38c188d.png"></a> Bootcamp Java AI Powered
+# <a href="https://www.dio.me/"><img align="center" width="60px" src="https://hermes.dio.me/tracks/fb1b88ee-257f-4870-8cf8-1339b38c188d.png"></a> Bootcamp Java AI Powered
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="150px" max-width="150px" width="150px" align="right" alt="Computador iuriCode">
-
 <p align="left"> 
     <strong>Estudar</strong> sempre é um bom, mas repassar o conhecimento é melhor ainda.
 </p>
@@ -13,24 +12,21 @@
 </p>
 <br>
 
-
-
-<!--About session-->
-<table >
+<table > <!--About session-->
     <tbody>
         <tr>
             <th>
                 <img src="https://hermes.digitalinnovation.one/assets/logos/dio-white.png" alt="DIO" tittle="Digital Innovation One">
             </th>
             <th align="left">
-                <p>Aqui você vai encontrar resumos e desafios do bootcamp que realizei na </strong><a rel="noopener noreferrer" href="https://digitalinnovation.one/">Digital Innovation One</a><a href="https://www.dio.me/"><img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a></strong>.<br><br>Os códigos estão rodando normalmente na plataforma da DIO.
+                <p>Aqui você vai encontrar resumos e desafios do bootcamp que realizei na </strong><img align="center" width="15px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"><a rel="noopener noreferrer" href="https://digitalinnovation.one/"> Digital Innovation One</a><a href="https://www.dio.me/"></a></strong>.<br><br>Os códigos estão rodando normalmente na plataforma da DIO.
             </th>
         </tr>
     </tbody>
 </table>
 
-## 📚 Módulos e Aulas
-<details><!-- Ganhando Produtividade em Java com Spring Framework -->
+## 📚 Módulos e Aulas <!--About modules and classes-->
+<details> <!--About menu module 1-->
 <summary><span>Ganhando Produtividade em Java com Spring Framework</span></summary>
 <div align="left">
     <table border="1">
@@ -88,7 +84,7 @@
 </div>
 </details>
 
-<details><!-- Explorando Testes e Arquiteturas Java de Alta Escabilidade -->
+<details> <!--About menu module 2-->
 <summary><span>Explorando Testes e Arquiteturas Java de Alta Escabilidade</span></summary>
 <div align="left">
     <table border="1">
@@ -138,7 +134,7 @@
 </div>
 </details>
 
-<details><!-- AWS Cloud Computing para Soluções Java -->
+<details> <!--About menu module 3-->
 <summary><span>AWS Cloud Computing para Soluções Java</span></summary>
 <div align="left">
     <table border="1">
@@ -188,32 +184,26 @@
 </div>
 </details>
 
-## 💪 Como contribuir para o projeto
-
+## 💪 Como contribuir para o projeto <!--About contributing to the project-->
 1. Faça um **fork** do projeto.
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
 3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
 4. Envie as suas alterações: `git push origin my-feature`
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 
-## 🦸 Autor
-
+## 🦸 Autor <!--About author-->
 <a href="https://www.linkedin.com/in/jomar-ferreira-amorim/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47539152?s=400&u=d40b201906972abddb5890c966c190557cbf4754&v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Jomar Ferreira</b></sub></a> <a href="https://www.linkedin.com/in/jomar-ferreira-amorim/" title="Rocketseat">🚀</a>
- <br />
-
+    <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47539152?s=400&u=d40b201906972abddb5890c966c190557cbf4754&v=4" width="100px;" alt=""/>
+    <br/>
+    <sub><b>Jomar Ferreira</b></sub>
+</a>
+<a href="https://www.linkedin.com/in/jomar-ferreira-amorim/" title="LinkedIn">🚀</a>
+<p align="left">💌 Contatos: ⤵️</p>
 <p align="left">
-  💌 Contatos: ⤵️
-</p>
-<p align="left">
-<a href="https://www.linkedin.com/in/jomar-ferreira-amorim/" alt="Linkedin"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jomar-ferreira-amorim/"></a>
-<a href="https://api.whatsapp.com/send?phone=5561991411476&text=Ola%2C%20em%20contato%20comigo%20agora%20estarei%20disponivel" alt="WhatsApp"><img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5561991411476&text=Ola%2C%20em%20contato%20comigo%20agora%20estarei%20disponivel"></a>
+    <a href="https://www.linkedin.com/in/jomar-ferreira-amorim/" alt="Linkedin"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jomar-ferreira-amorim/"></a>
 </p>  
 
-## 📝 Licença
-
+## 📝 Licença <!--About license-->
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
 Feito com ❤️ por Jomar Ferreira 👋🏽 [Entre em contato!](https://www.linkedin.com/in/jomar-ferreira-amorim/)
