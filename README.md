@@ -49,7 +49,7 @@
             </tr>
             <tr>
                 <td><a href="./M%C3%B3dulo%201/04.%20Desafios%20de%20projetos%20-%20Crie%20um%20portf%C3%B3lio%20vencedor.md">Desafios de Projetos: Crie um Portfólio Vencedor</a></td>
-                <td align="center">❌</td>
+                <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Contribuindo em um Projeto Open Source no GitHub</td>
