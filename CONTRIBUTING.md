@@ -4,14 +4,14 @@
 [![Forks](https://img.shields.io/github/forks/joeywheelersam/Java-AI-Powered?style=social)](https://github.com/joeywheelersam/Java-AI-Powered/forks)
 [![GitHub Issues](https://img.shields.io/github/issues/joeywheelersam/Java-AI-Powered?style=social)](https://github.com/joeywheelersam/Java-AI-Powered/issues/)
 
-Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](https://github.com/joeywheelersam/Java-AI-Powered/tree/main/utils), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](https://github.com/joeywheelersam/Java-AI-Powered/tree/main/docs). Além disso, você também pode contribuir:
+Este é um projeto feito para a comunidade, então sinta-se livre para contribuir. Algumas formas de contribuição além do seu exemplo de Profile README, é inserir outros utilitários na pasta [`utils`](./utils/), ou melhorar a página de pesquisa dos READMEs fazendo modificações nos arquivos da pasta [`docs`](./docs/). Além disso, você também pode contribuir:
  
 ⚠️ Resolvendo, respondendo ou indicando **issues**
 
 ⭐ Adicionando aos favoritos (**star**) 
 
 ##  Contribuindo no diretório "Community" 
-Você pode colaborar criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). Inspire-se consultando os exemplos na pasta [`community`](https://github.com/joeywheelersam/Java-AI-Powered/tree/main/community), confira alguns utilitários na pasta [`utils`](https://github.com/joeywheelersam/Java-AI-Powered/tree/main/utils) e use sua criatividade para criar o seu 😊💙.
+Você pode colaborar criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). Inspire-se consultando os exemplos na pasta [`community`](https://github.com/joeywheelersam/Java-AI-Powered/tree/main/community), confira alguns utilitários na pasta [`utils`](./utils/) e use sua criatividade para criar o seu 😊💙.
 
 ### Instruções
 1. Faça um **Fork** deste repositório;

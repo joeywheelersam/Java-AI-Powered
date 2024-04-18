@@ -1,4 +1,4 @@
-# <a href="https://www.dio.me/"><img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a> Bootcamp Java AI Powered
+# <a href="https://www.dio.me/"><img align="center" width="40px" src="https://hermes.dio.me/tracks/fb1b88ee-257f-4870-8cf8-1339b38c188d.png"></a> Bootcamp Java AI Powered
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="150px" max-width="150px" width="150px" align="right" alt="Computador iuriCode">
 
@@ -13,6 +13,8 @@
 </p>
 <br>
 
+
+
 <!--About session-->
 <table >
     <tbody>
@@ -21,7 +23,7 @@
                 <img src="https://hermes.digitalinnovation.one/assets/logos/dio-white.png" alt="DIO" tittle="Digital Innovation One">
             </th>
             <th align="left">
-                <p>Aqui você vai encontrar resumos e desafios do bootcamp que realizei na </strong><a rel="noopener noreferrer" href="https://digitalinnovation.one/">Digital Innovation One</a></strong>.<br><br>Os códigos estão rodando normalmente na plataforma da DIO.
+                <p>Aqui você vai encontrar resumos e desafios do bootcamp que realizei na </strong><a rel="noopener noreferrer" href="https://digitalinnovation.one/">Digital Innovation One</a><a href="https://www.dio.me/"><img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a></strong>.<br><br>Os códigos estão rodando normalmente na plataforma da DIO.
             </th>
         </tr>
     </tbody>
@@ -38,19 +40,19 @@
                 <th>Status</th>
             </tr>
             <tr>
-                <td>Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas!</td>
+                <td>[Bootcamps DIO: Educação Gratuita e Empregabilidade Juntas!](./M%C3%B3dulo%201/01.%20Bootcamps%20DIO%20-%20Educa%C3%A7%C3%A3o%20Gratuita%20e%20Empregabilidade%20Juntas.md)</td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Contextualizando o Desenvolvimento Web com Spring Boot 3</td>
+                <td>[Contextualizando o Desenvolvimento Web com Spring Boot 3](./M%C3%B3dulo%201/02.%20Desenvolvimento%20Web%20com%20Spring%20Boot%203%20e%20Kotlin.md)</td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Versionamento de Código com Git e GitHub</td>
+                <td>[Versionamento de Código com Git e GitHub](./M%C3%B3dulo%201/03.%20Versionamento%20de%20c%C3%B3digo%20com%20Git%20e%20GitHub.md)</td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Desafios de Projetos: Crie um Portfólio Vencedor</td>
+                <td>[Desafios de Projetos: Crie um Portfólio Vencedor](./M%C3%B3dulo%201/04.%20Desafios%20de%20projetos%20-%20Crie%20um%20portf%C3%B3lio%20vencedor.md)</td>
                 <td align="center">❌</td>
             </tr>
             <tr>
