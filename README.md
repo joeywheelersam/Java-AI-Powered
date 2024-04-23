@@ -1,27 +1,29 @@
 # <a href="https://www.dio.me/"><img align="center" width="60px" src="https://hermes.dio.me/tracks/fb1b88ee-257f-4870-8cf8-1339b38c188d.png"></a> Bootcamp Java AI Powered
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="150px" max-width="150px" width="150px" align="right" alt="Computador iuriCode">
-<p align="left"><strong>Estudar</strong> sempre é um bom, mas repassar o conhecimento é melhor ainda.</p>
-<p align="left">🦄 Linguagens: <strong>Java.</strong></p>
-<p align="left">💼 Ferramentas: <strong><a href="https://git-scm.com/">Git</a> / <a href="https://github.com/">GitHub</a></strong></p>
+## Sobre o curso <!--About the course / Sobre o curso -->
+<div>
+    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="150px" max-width="150px" width="150px" align="right" alt="Computador iuriCode">
+    <p align="left"><strong>Estudar</strong> sempre é um bom, mas repassar o conhecimento é melhor ainda.</p>
+    <p align="left">🦄 Linguagens: <strong>Java</strong></p>
+    <p align="left">💼 Ferramentas: <strong><a href="https://git-scm.com/">Git</a> / <a href="https://github.com/">GitHub</a></strong></p>
+    <br/>
+    <table> 
+        <tbody>
+            <tr>
+                <th>
+                    <img src="https://hermes.digitalinnovation.one/assets/logos/dio-white.png" alt="DIO" tittle="Digital Innovation One">
+                </th>
+                <th align="left">
+                    <p>Aqui você vai encontrar resumos e desafios do bootcamp que realizei na </strong><img align="center" width="20px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"><a rel="noopener noreferrer" href="https://digitalinnovation.one/"> Digital Innovation One</a><a href="https://www.dio.me/"></a></strong>.<br><br>Os códigos estão rodando normalmente na plataforma da DIO.
+                </th>
+            </tr>
+        </tbody>
+    </table>
+</div>
 <br/>
 
-<table > <!--About session-->
-    <tbody>
-        <tr>
-            <th>
-                <img src="https://hermes.digitalinnovation.one/assets/logos/dio-white.png" alt="DIO" tittle="Digital Innovation One">
-            </th>
-            <th align="left">
-                <p>Aqui você vai encontrar resumos e desafios do bootcamp que realizei na </strong><img align="center" width="20px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"><a rel="noopener noreferrer" href="https://digitalinnovation.one/"> Digital Innovation One</a><a href="https://www.dio.me/"></a></strong>.<br><br>Os códigos estão rodando normalmente na plataforma da DIO.
-            </th>
-        </tr>
-    </tbody>
-</table>
-<br/>
-
-## 📚 Módulos e Aulas <!--About modules and classes-->
-<details> <!--About menu module 1-->
+## 📚 Módulos e Aulas <!--About modules and classes / Sobre módulos e aulas-->
+<details> <!--About menu module 1 / Sobre o menu do módulo 1-->
 <summary><span>Ganhando Produtividade em Java com Spring Framework</span></summary>
 <div align="left">
     <table border="1">
@@ -103,7 +105,7 @@
 </div>
 </details>
 
-<details> <!--About menu module 2-->
+<details> <!--About menu module 2 / Sobre o menu do módulo 2-->
 <summary><span>Explorando Testes e Arquiteturas Java de Alta Escabilidade</span></summary>
 <div align="left">
     <table border="1">
@@ -173,7 +175,7 @@
 </div>
 </details>
 
-<details> <!--About menu module 3-->
+<details> <!--About menu module 3 / Sobre o menu do módulo 3-->
 <summary><span>AWS Cloud Computing para Soluções Java</span></summary>
 <div align="left">
     <table border="1">
@@ -244,16 +246,14 @@
 </details>
 <br/>
 
-## 💪 Como contribuir para o projeto <!--About contributing to the project-->
+## 💪 Como contribuir para o projeto <!--About contributing to the project / Sobre contribuir para o projeto-->
 1. Faça um **fork** do projeto.
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
 3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
 4. Envie as suas alterações: `git push origin my-feature`
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
-> 
-<br/>
 
-## 🦸 Autor <!--About author-->
+## 🦸 Autor <!--About author / Sobre o autor-->
 <a href="https://www.linkedin.com/in/jomar-ferreira-amorim/">
     <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47539152?s=400&u=d40b201906972abddb5890c966c190557cbf4754&v=4" width="100px;" alt=""/>
     <br/>
@@ -266,7 +266,7 @@
 </p>
 <br/>
 
-## 📝 Licença <!--About license-->
+## 📝 Licença <!--About license / Sobre a licença-->
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
 Feito com ❤️ por Jomar Ferreira 👋🏽 [Entre em contato!](https://www.linkedin.com/in/jomar-ferreira-amorim/)
