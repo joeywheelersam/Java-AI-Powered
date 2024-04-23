@@ -41,7 +41,7 @@
             <tr>
                 <td>02</td>
                 <td>Contextualizando o Desenvolvimento Web com Spring Boot 3</td>
-                <td><a href="../Módulo 1/02. Desenvolvimento Web com Spring Boot 3 e Kotlin.md">Link</a></td>
+                <td><a href="./Módulo 1/02. Desenvolvimento Web com Spring Boot 3 e Kotlin.md">Link</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
