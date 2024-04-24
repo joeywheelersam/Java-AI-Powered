@@ -1,6 +1,6 @@
 # <a href="https://www.dio.me/"><img align="center" width="60px" src="https://hermes.dio.me/tracks/fb1b88ee-257f-4870-8cf8-1339b38c188d.png"></a> Bootcamp Java AI Powered
 
-## Sobre o curso <!--About the course / Sobre o curso -->
+## Sobre o curso <!--About the course / Sobre o curso-->
 <div>
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="150px" max-width="150px" width="150px" align="right" alt="Computador iuriCode">
     <p align="left"><strong>Estudar</strong> sempre é um bom, mas repassar o conhecimento é melhor ainda.</p>
