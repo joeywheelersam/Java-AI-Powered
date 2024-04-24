@@ -23,7 +23,7 @@
 <br/>
 
 ## 📚 Módulos e Aulas <!--About modules and classes / Sobre módulos e aulas-->
-<details> <!--About menu module 1 / Sobre o menu do módulo 1-->
+<details> <!--About module 1 / Sobre módulo 1-->
 <summary><span>Ganhando Produtividade em Java com Spring Framework</span></summary>
 <div align="left">
     <table border="1">
@@ -105,7 +105,7 @@
 </div>
 </details>
 
-<details> <!--About menu module 2 / Sobre o menu do módulo 2-->
+<details> <!--About module 2 / Sobre módulo 2-->
 <summary><span>Explorando Testes e Arquiteturas Java de Alta Escabilidade</span></summary>
 <div align="left">
     <table border="1">
@@ -175,7 +175,7 @@
 </div>
 </details>
 
-<details> <!--About menu module 3 / Sobre o menu do módulo 3-->
+<details> <!--About module 3 / Sobre módulo 3-->
 <summary><span>AWS Cloud Computing para Soluções Java</span></summary>
 <div align="left">
     <table border="1">
@@ -254,7 +254,7 @@
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 <br/>
 
-## 🦸 Autor <!--About author / Sobre o autor-->
+## 🦸 Autor <!--About author / Sobre autor-->
 <a href="https://www.linkedin.com/in/jomar-ferreira-amorim/">
     <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/47539152?s=400&u=d40b201906972abddb5890c966c190557cbf4754&v=4" width="100px;" alt=""/>
     <br/>
@@ -267,7 +267,7 @@
 </p>
 <br/>
 
-## 📝 Licença <!--About license / Sobre a licença-->
+## 📝 Licença <!--About license / Sobre licença-->
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
 Feito com ❤️ por Jomar Ferreira 👋🏽 [Entre em contato!](https://www.linkedin.com/in/jomar-ferreira-amorim/)
