@@ -61,8 +61,8 @@
             <tr>
                 <td>05</td>
                 <td>Contribuindo em um Projeto Open Source no GitHub</td>
-                <td><a href="">Link</a></td>
-                <td align="center">❌</td>
+                <td><a href="./Módulo 1/05. Contribuindo em um Projeto Open Source no GitHub.md">Link</a></td>
+                <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>06</td>
