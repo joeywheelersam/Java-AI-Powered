@@ -5,7 +5,7 @@
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="150px" max-width="150px" width="150px" align="right" alt="Computador iuriCode">
     <p align="left"><strong>Estudar</strong> sempre é um bom, mas repassar o conhecimento é melhor ainda.</p>
     <p align="left">🦄 Linguagens: <strong>Java</strong></p>
-    <p align="left">💼 Ferramentas: <strong><a href="https://code.visualstudio.com/download">Visual Studio Code</a> / <a href="https://www.jetbrains.com/idea/download/?section=windows">IntelliJ IDEA Community (IDE)</a> / <a href="https://www.oracle.com/br/java/technologies/downloads/">JDK 17+</a> / <a href="https://kotlinlang.org/">Kotlin 1.7.22</a> / <a href="https://git-scm.com/">Git</a> / <a href="https://github.com/">GitHub</a></strong></p>
+    <p align="left">💼 Ferramentas: <strong><a href="https://code.visualstudio.com/download">Visual Studio Code (IDE)</a> / <a href="https://www.jetbrains.com/idea/download/?section=windows">IntelliJ IDEA Community (IDE)</a> / <a href="https://www.oracle.com/br/java/technologies/downloads/">JDK 17+</a> / <a href="https://kotlinlang.org/">Kotlin 1.7.22</a> / <a href="https://git-scm.com/">Git</a> / <a href="https://github.com/">GitHub</a></strong></p>
     <br/>
     <table> 
         <tbody>
