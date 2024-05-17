@@ -67,8 +67,8 @@
             <tr>
                 <td>06</td>
                 <td>Imersão no Spring Frameworks com Spring Boot</td>
-                <td><a href="">Link</a></td>
-                <td align="center">❌</td>
+                <td><a href="./Módulo 1/06. Imersão no Spring Framework com Spring Boot.md">Link</a></td>
+                <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>07</td>
